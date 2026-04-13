@@ -1,4 +1,4 @@
-# 🎮 Portal de Games (Projeto Autoral)
+# 🎮 Produzindo Portal de Games (Projeto Autoral)
 
 ## 📌 Sobre o projeto
 
