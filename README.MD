@@ -10,6 +10,12 @@ Todo o projeto foi idealizado, planejado e desenvolvido por mim — desde o conc
 
 ---
 
+## 🌐 Acesse o projeto
+
+👉 **https://resplandeluiz.github.io/produzindo-2016/**
+
+---
+
 ## 🎨 Design & Conceito
 
 Um dos principais diferenciais deste projeto é que ele não foi apenas desenvolvido tecnicamente, mas também concebido como um produto completo.
